@@ -1,4 +1,4 @@
-#Handwritten Text Generator using Generative Adversarial Networks.
+# Handwritten Text Generator using Generative Adversarial Networks.
 
 
 ## Description
@@ -40,4 +40,5 @@ This project uses the tensorflow dataset emnist/balanced.
 
 ![Descripción de la imagen](Resources/interfaz1.png)
 
+A4 paper result
 ![Descripción de la imagen](Resources/a4.png)
