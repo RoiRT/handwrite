@@ -27,7 +27,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>F1_tire_Pirelli_PZero_Red.svg.png</normaloff>F1_tire_Pirelli_PZero_Red.svg.png</iconset>
+    <normaloff>resources.svg.png</normaloff>resources.svg.png</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true"/>
