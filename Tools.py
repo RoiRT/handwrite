@@ -24,3 +24,4 @@ def graficar_imagenes_generadas(i, generator):
 
     plt.tight_layout()
     plt.savefig("Evolution/grafica"+str(i)+".png", dpi=600)
+    plt.close()
