@@ -33,9 +33,11 @@ This project uses the tensorflow dataset emnist/balanced.
 [DOCUMENTATION](https://www.tensorflow.org/datasets/catalog/emnist#emnistbalanced)
 ## Results
 ###Training evolution
-![Handwritten Text Generator GIF](Resources/evolution.gif)
+
+<img alt="Handwritten Text Generator GIF" src="Resources/evolution.gif"/>
 
 ###Interface
-![Descripción de la imagen](Resources/interfaz1.png)
 
-![Descripción de la imagen](Resources/a4.png)
+<img alt="Descripción de la imagen" src="Resources/interfaz1.png"/>
+
+<img alt="Descripción de la imagen" src="Resources/a4.png"/>
