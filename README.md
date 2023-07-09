@@ -38,7 +38,7 @@ This project uses the tensorflow dataset emnist/balanced.
 
 ## Interface
 
-![Descripción de la imagen](Resources/interfaz1.png)
+![](Resources/interfaz1.png)
 
 #### A4 paper result
-![Descripción de la imagen](Resources/a4.png)
+![](Resources/a4.png)
